@@ -1,1 +1,1 @@
-python main.py --ret DPR
+python main.py --ret DPR --db test
