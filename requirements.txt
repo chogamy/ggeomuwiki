@@ -9,3 +9,4 @@ langchain-huggingface
 faiss-cpu
 rank_bm25
 langchainhub
+elasticsearch
